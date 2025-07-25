@@ -11,3 +11,7 @@
   #logo {
     animation: bounceLogo 2s ease-in-out infinite;
   }
+
+  .custom-navbar {
+    background-color: #48a3ae;  /* Your custom color */
+  }
